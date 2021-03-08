@@ -1,1 +1,1 @@
-Project live website url: https://larryzly.github.io/CardiovascularClassifier
+Project live website url: https://larryzly.github.io/CardiovascularClassifier/
